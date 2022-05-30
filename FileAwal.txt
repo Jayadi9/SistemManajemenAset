@@ -1,0 +1,4 @@
+Tujuan Pembuatan Sistem
+1. Mendata seluruh aset yang ada pada kantor
+2. Membuat peta penempatan barang
+3. Mengidentifikasi pengguna dan status barang
