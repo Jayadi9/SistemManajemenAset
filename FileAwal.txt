@@ -3,4 +3,3 @@ Tujuan Pembuatan Sistem
 2. Membuat peta penempatan barang
 3. Mengidentifikasi pengguna dan status barang
 4. Mengelola Aset Kantor
-5. Membuat laporan status barang
